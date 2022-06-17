@@ -1,0 +1,11 @@
+if ((message == "/start")) {
+var buttons = [
+    [
+      { title: "Main_menu ", command: "main_menu" }
+    ],
+  ]
+
+ Bot.sendInlineKeyboard(buttons, "*Welcome To Group Survival!*🔥")
+} else {
+  Bot.sendMessage("*Type* /start")
+}
