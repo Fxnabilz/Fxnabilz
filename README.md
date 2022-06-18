@@ -1,5 +1,5 @@
 ## 'Deploy'
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/fxnabilz/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fxnabilz/fxnabilz/)
 
 ## CARA INSTALL
 '''
