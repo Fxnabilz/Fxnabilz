@@ -17,4 +17,4 @@
 > npm start
 > 
 > Now scan the QR
-'''
+'''bash
