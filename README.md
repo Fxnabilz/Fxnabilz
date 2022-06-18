@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Fxnabilz
-- 👀 I’m interested in music
-- 🌱 I’m currently learning making ccode
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me malaysia
+## 'Deploy'/
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/fxnabilz/)
+
+## CARA INSTALL
+'''bash
+> termux-setup-storage [Y]
+> cd /sdcard
+> cd -r Alphabot /$HOME
+> cd Alphabot
+> bash install.sh
+> npm start
+> Now scan the QR
+'''
 
 <!---
 Fxnabilz/Fxnabilz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
